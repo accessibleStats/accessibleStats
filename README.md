@@ -1,9 +1,3 @@
 Hi, I’m @accessibleStats.
 
-I’m interested in making statistics accessible and fun for students in higher education. 
-I’m currently learning to develop python programs that automate and help teach statistics fundamentals. Currently, I am exploring memory allocation 
-techniques, the efficient use of system resources, local vs global variables, and nesting functions.
-
-I’m looking to learn and collaborate on statistical analysis or educational projects.
-
-Reach me at jack.nickelson@outlook.com. I love to chat all things python, R, pedagogy, and stats.
+I enjoy making things with python. I’m currently working on python programs and a tkinter user interface to execute and explore statistics fundamentals - regressions, z/t scores, Bayesian statistics, univariate, descriptive statistics, EDA, etc..
